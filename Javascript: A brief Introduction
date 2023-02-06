@@ -1,0 +1,33 @@
+Apply Practical Skills
+• Modern JavaScript and JavaScript tooling
+• JSX and TypeScript
+• Frameworks
+
+JSX
+A syntax extension of JavaScript created
+for the React JavaScript framework
+
+1)JavaScript
+The core language; sometimes referred to as vanilla
+JavaScript or Vanilla JS
+
+2) ECMAScript
+The browser specification of the JavaScript language
+
+3)TypeScript
+Variation, dialect, or flavor of JavaScript introducing
+features like strong typing
+
+React, Vue, Angular
+JavaScript frameworks allowing us to write
+JavaScript-based front-end applications
+
+npm, WebPack, Gulp
+Build tools and infrastructure to automate the
+process of optimizing human-readable JavaScript
+for the best browser performance
+
+Node.js
+JavaScript server runtime used to run JavaScript
+everywhere; used to run npm, WebPack, Babel, and
+more on your computer
